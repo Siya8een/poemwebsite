@@ -1,2 +1,2 @@
 # poemwebsite
-this poem will peon world wide web 
+this poem will be shared world wide web 
